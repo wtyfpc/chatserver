@@ -13,3 +13,7 @@ include目录包含一些头文件
 
 涉及到的技术：
 Nginx MySQL Redis的发布订阅 muduo网络库 cmake的使用
+
+开发环境：Ubuntu20.04，gcc9.4.0
+本机需要安装MySQL、Redis
+安装muduo网络库、hiredis库、nginx
