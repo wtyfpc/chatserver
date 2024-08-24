@@ -1,0 +1,3 @@
+/home/wty/project/chatcluster/chat/test/build/CMakeFiles/server.dir
+/home/wty/project/chatcluster/chat/test/build/CMakeFiles/edit_cache.dir
+/home/wty/project/chatcluster/chat/test/build/CMakeFiles/rebuild_cache.dir
